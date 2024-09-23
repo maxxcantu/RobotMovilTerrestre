@@ -1,10 +1,5 @@
-# microcontroladores
+# Robot Móvil Terrestre con Tracción Diferencial
 
-Final Project.
-University: Universidad Nacional de Cuyo.
-Subject: Microcontrollers and Power Electronics.
-Project: Prototype of a light folower differential drive mobile robot.
-Developed in an Atmel328P microcontroller in Microchip Studio environment, simulated in Proteus and physically builded.
+El objetivo principal del proyecto es lograr disenar, simular y controlar el movimiento de un prototipo físico y a escala de un robot asistidor de cosecha, el cual sea capaz de seguir constantemente al operario durante el proceso, transportando el cajón de uva a una distancia y velocidad deseada. Esto es con el fin de evitarle al operario el trabajo de cargar, trasladar y descargar el cajon cada vez que necesite moverse, ya que esos movimientos suelen ser de distancias cortas y resulta agotador realizarlos repetidas veces en poco tiempo, generando un desgaste corporal y una perdida de tiempo.
 
-In this repository you can see all the code files in C, the simulation file of Proteus and the project report in spanish.
-Also there is a demonstrative video to see the robot builded and in function.
+Para lograrlo, se fábrica un prototipo a escala con simplificaciones y diferencias respecto al proyecto final, las cuales se tendran en cuenta como mejoras a futuro para completar la realización y fabricación del robot en su totalidad.
